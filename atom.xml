@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tommy.su</id>
     <title>Tommy Su</title>
-    <updated>2020-11-07T07:02:06.440Z</updated>
+    <updated>2020-11-07T07:18:15.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tommy.su"/>
     <link rel="self" href="https://tommy.su/atom.xml"/>
