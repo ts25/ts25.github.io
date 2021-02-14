@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tommy.su</id>
+    <id>http://localhost:4000</id>
     <title>Tommy Su</title>
-    <updated>2020-11-12T16:26:15.567Z</updated>
+    <updated>2021-02-14T15:03:51.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tommy.su"/>
-    <link rel="self" href="https://tommy.su/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>A personal site which have nothing to write on.</subtitle>
-    <logo>https://tommy.su/images/avatar.png</logo>
-    <icon>https://tommy.su/favicon.ico</icon>
-    <rights>All rights reserved 2020, Tommy Su</rights>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2021, Tommy Su</rights>
+    <entry>
+        <title type="html"><![CDATA[Spotify]]></title>
+        <id>http://localhost:4000/spotify/</id>
+        <link href="http://localhost:4000/spotify/">
+        </link>
+        <updated>2021-02-14T15:03:20.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World 始め]]></title>
-        <id>https://tommy.su/test/</id>
-        <link href="https://tommy.su/test/">
+        <id>http://localhost:4000/test/</id>
+        <link href="http://localhost:4000/test/">
         </link>
         <updated>2020-11-07T06:29:52.000Z</updated>
         <summary type="html"><![CDATA[<p>之前有过很多写文章的想法。最开始是在个人公众号上，想到什么写什么。然而往后就变成了低配Instagram，拿来发一些自己拍的照片。最后也不了了之了。</p>
@@ -23,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tommy.su/hello-gridea/</id>
-        <link href="https://tommy.su/hello-gridea/">
+        <id>http://localhost:4000/hello-gridea/</id>
+        <link href="http://localhost:4000/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
